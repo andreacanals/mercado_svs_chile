@@ -1,5 +1,10 @@
 
-cd "C:\Users\danim\OneDrive\1.-Work\Seguros de salud\Bases de Datos\EPF\IX\Nueva carpeta"
+*Análisis en base a IX Encuesta de Presupuestos Familiares
+*Las bases de datos se pueden descargar desde: https://www.ine.gob.cl/estadisticas/sociales/ingresos-y-gastos/encuesta-de-presupuestos-familiares 
+*En sección BASES DE DATOS, IX EPF (octubre 2021 - septiembre 2022). Las bases usadas son:
+*"base-gastos-ix-epf-stata.dta"
+*"base-personas-ix-epf-stata.dta"
+
 
 use "base-gastos-ix-epf-stata.dta", clear
 unique folio // 15135
