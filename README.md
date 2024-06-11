@@ -5,3 +5,4 @@ Este repositorio incluye los códigos utilizados para los análisis de datos pre
 Los códigos se encuentran organizados según la fuente de información utilizada:
 - Encuesta de Caracterización Socioeconómica Nacional (CASEN) 2013 a 2022
 - Encuesta de Presupuestos Familiares (EPF)
+- Datos administrativos disponibles públicamente de la Asociación de Aseguradores de Chile (AACH) 2014 A 2023
